@@ -1,4 +1,4 @@
-# Predictive-Customer-Churn-Analysis-Using-Machine-Learning-to-Improve-Customer-Retention
+# Predictive Customer Churn Analysis Using Machine Learning to Improve Customer Retention
 
 ## Project Overview:
 Customer churn is a critical concern for businesses, especially in the telecommunications industry. This project aims to develop a **machine learning-based prediction system** to identify customers who are likely to churn. By accurately predicting customer churn, businesses can implement proactive retention strategies, thereby reducing customer loss and increasing revenue.
